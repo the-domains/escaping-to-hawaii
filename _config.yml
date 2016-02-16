@@ -1,0 +1,28 @@
+name: Escaping To Hawaii
+favicon: null
+layout_spectrum: 0.5389291318133473
+typography_spectrum: 0.8581056715920568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08843677118420601
+  lightness: 0.023493096698075533
+  saturation: 0.1345695243217051
+  rhythmicContrast: 0.9541101742070168
+purpose: []
