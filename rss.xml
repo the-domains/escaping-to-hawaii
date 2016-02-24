@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Escaping To Hawaii]]></title>
         <description><![CDATA[Escaping To Hawaii]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://escapingtohawaii.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:23:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 15:30:19 GMT</lastBuildDate>
+        <atom:link href="http://escapingtohawaii.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b524f8b1-a5e9-4472-9dcf-2e1f23f737ed.jpg">]]></description>
+            <link>http://escapingtohawaii.com/34529cb0-5471-4d4f-8240-fb1cd60fe8c9/index.html</link>
+            <guid isPermaLink="false">34529cb0-5471-4d4f-8240-fb1cd60fe8c9</guid>
+            <pubDate>Wed, 24 Feb 2016 15:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedb2d36-6dec-48c7-8b70-1f997d0a1386.jpg">]]></description>
-            <link>undefinedf8ed1c9a-3d7d-4209-9785-d7ccde248342/index.html</link>
+            <link>http://escapingtohawaii.com/f8ed1c9a-3d7d-4209-9785-d7ccde248342/index.html</link>
             <guid isPermaLink="false">f8ed1c9a-3d7d-4209-9785-d7ccde248342</guid>
             <pubDate>Wed, 24 Feb 2016 15:23:44 GMT</pubDate>
         </item>
